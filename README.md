@@ -33,10 +33,14 @@ You win if the final pile also forms a Fibonacci number. Otherwise, you lose.
 ## How to Run
 
 ### Compile:
+```bash
 g++ FiboSolitaire.cpp Deck.cpp Card.cpp -o fibo
+```
 
 ### Run:
+```bash
 ./fibo
+```
 
 ## Highlights
 
