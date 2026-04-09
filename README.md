@@ -20,13 +20,13 @@ This project demonstrates:
 
 ## How It Works
 
-* A standard 52-card deck is shuffled
-* Cards are dealt one at a time into a pile
-* The sum of the pile is recorded
+* A standard 52-card deck is shuffled.
+* Cards are dealt one at a time into a pile.
+* The sum of the pile is recorded.
 * Whenever the sum is a Fibonacci number:
-	* The pile is printed
-	* The pile resets
-* The game continues until all cards are dealt
+	* The pile is printed.
+	* The pile resets.
+* The game continues until all cards are dealt.
 
 You win if the final pile also forms a Fibonacci number. Otherwise, you lose.
 
@@ -84,6 +84,6 @@ class Card
 ```
 
 ## What I Learned
-* Designing modular classes for C++ programs
+* Designing modular classes for C++ programs.
 * Translating mathematical concepts into program logic.
 * Implementing and managing multiple objects.
